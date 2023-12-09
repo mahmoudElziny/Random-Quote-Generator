@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: 100;
+}
+
+button{
+    font-size: 25px;
+    margin: 50px 42%;
+    padding: 30px 50px;  
+    background-color: antiquewhite;
+    transition:  all 0.75s;
+    
+}
+button:hover{
+    background-color: brown;
+    color: white;
+}
+div{
+    margin: auto;
+    width: 80%;
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 100;
+}
